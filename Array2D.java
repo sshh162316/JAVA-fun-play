@@ -2,7 +2,6 @@
 import java.util.Scanner;
 class Array2D {
     public static void main(String[] args) {
-        // String name [][]= {{"mrs " , "ms " , "ms "} , {"smith " , "jones "}};
         Scanner sc = new Scanner(System.in);
         int r = sc.nextInt();
         System.out.println("enter no. of row");
