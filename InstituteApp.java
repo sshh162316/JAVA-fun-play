@@ -6,4 +6,4 @@ public class InstituteApp       {
           Institute i =new Institute();
         i.display();
     }
-} 
+}  
